@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "os": "${TEST_OS}",
+    "os_version": "${TEST_OS_VERSION}",
+    "host": "${TEST_HOST}"
+}
